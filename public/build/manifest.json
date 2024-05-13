@@ -1,0 +1,61 @@
+{
+  "public/assets/fonts/Gribble.ttf": {
+    "file": "assets/Gribble-sEcLmD5U.ttf",
+    "src": "public/assets/fonts/Gribble.ttf"
+  },
+  "public/assets/fonts/Helvetica.ttf": {
+    "file": "assets/Helvetica-zhVn_y_h.ttf",
+    "src": "public/assets/fonts/Helvetica.ttf"
+  },
+  "public/assets/fonts/HelveticaNeueLight.otf": {
+    "file": "assets/HelveticaNeueLight-Ct5-NwMS.otf",
+    "src": "public/assets/fonts/HelveticaNeueLight.otf"
+  },
+  "public/assets/fonts/HelveticaNeueRoman.otf": {
+    "file": "assets/HelveticaNeueRoman-CSpBGpqm.otf",
+    "src": "public/assets/fonts/HelveticaNeueRoman.otf"
+  },
+  "public/assets/fonts/HelveticaNeueThin.otf": {
+    "file": "assets/HelveticaNeueThin-5D5bnMyF.otf",
+    "src": "public/assets/fonts/HelveticaNeueThin.otf"
+  },
+  "public/assets/fonts/KidsCute-DemoVersion-Regular.otf": {
+    "file": "assets/KidsCute-DemoVersion-Regular-CCNMQUFz.otf",
+    "src": "public/assets/fonts/KidsCute-DemoVersion-Regular.otf"
+  },
+  "public/assets/fonts/Poppins-Light.ttf": {
+    "file": "assets/Poppins-Light-DT6-CsId.ttf",
+    "src": "public/assets/fonts/Poppins-Light.ttf"
+  },
+  "public/assets/fonts/SouthAustriaDEMO.otf": {
+    "file": "assets/SouthAustriaDEMO-BsQHINGX.otf",
+    "src": "public/assets/fonts/SouthAustriaDEMO.otf"
+  },
+  "public/assets/fonts/TheHoca-Bold.ttf": {
+    "file": "assets/TheHoca-Bold-CdFay7oZ.ttf",
+    "src": "public/assets/fonts/TheHoca-Bold.ttf"
+  },
+  "public/assets/fonts/TheHoca-Outline.ttf": {
+    "file": "assets/TheHoca-Outline-BQh1JkRl.ttf",
+    "src": "public/assets/fonts/TheHoca-Outline.ttf"
+  },
+  "public/assets/fonts/WalkerDEMO.ttf": {
+    "file": "assets/WalkerDEMO-STfmgMY1.ttf",
+    "src": "public/assets/fonts/WalkerDEMO.ttf"
+  },
+  "public/assets/fonts/Willow.ttf": {
+    "file": "assets/Willow-Daumiafs.ttf",
+    "src": "public/assets/fonts/Willow.ttf"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-CSZhbr8v.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CrG2wnyX.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
