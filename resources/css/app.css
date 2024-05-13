@@ -92,5 +92,10 @@
     src: url("./../../public/assets/fonts/BriemHand-VariableFont_wght.ttf");
 }
 
+@font-face {
+    font-family: "Didot";
+    src: url("./../../public/assets/fonts/Didot.otf");
+}
+
 
 

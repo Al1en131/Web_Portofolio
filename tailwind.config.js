@@ -30,7 +30,8 @@ export default {
                 HelveticaNeueLight : ['HelveticaNeueLight'],
                 Poppins : ['Poppins'],
                 Oswald : ['Oswald'],
-                Hand : ['Hand']
+                Hand : ['Hand'],
+                Didot : ['Didot']
             },
         },
     },
