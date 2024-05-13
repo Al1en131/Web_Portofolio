@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Astral Studio";
+    src: url("./../../public/assets/fonts/Astral\ Studio.ttf");
+}
+
+@font-face {
+    font-family: "Tell Me A Joke";
+    src: url("./../../public/assets/fonts/Tell\ Me\ A\ Joke.ttf");
+}
+
+@font-face {
+    font-family: "Super Creamy";
+    src: url("./../../public/assets/fonts/Super\ Creamy\ Personal\ Use.ttf");
+}
+
+@font-face {
+    font-family: "SothAustriaDEMO";
+    src: url("./../../public/assets/fonts/SouthAustriaDEMO.otf");
+}
+
+@font-face {
+    font-family: "TheHoca-Outline";
+    src: url("./../../public/assets/fonts/TheHoca-Outline.ttf");
+}
+
+@font-face {
+    font-family: "TheHoca-Bold";
+    src: url("./../../public/assets/fonts/TheHoca-Bold.ttf");
+}
+
+@font-face {
+    font-family: "TheHoca";
+    src: url("./../../public/assets/fonts/The\ Hoca.ttf");
+}
+
+@font-face {
+    font-family: "Willow";
+    src: url("./../../public/assets/fonts/Willow.ttf");
+}
+
+@font-face {
+    font-family: "WalkerDEMO";
+    src: url("./../../public/assets/fonts/WalkerDEMO.ttf");
+}
+
+@font-face {
+    font-family: "KidsCute";
+    src: url("./../../public/assets/fonts/KidsCute-DemoVersion-Regular.otf");
+}
+
+@font-face {
+    font-family: "Gribble";
+    src: url("./../../public/assets/fonts/Gribble.ttf");
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("./../../public/assets/fonts/Helvetica.ttf");
+}
+
+@font-face {
+    font-family: "HelveticaNeueRoman";
+    src: url("./../../public/assets/fonts/HelveticaNeueRoman.otf");
+}
+
+@font-face {
+    font-family: "HelveticaNeueLight";
+    src: url("./../../public/assets/fonts/HelveticaNeueLight.otf");
+}
+
+@font-face {
+    font-family: "HelveticaNeueThin";
+    src: url("./../../public/assets/fonts/HelveticaNeueThin.otf");
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url("./../../public/assets/fonts/Poppins-Light.ttf");
+}
+
+
+
