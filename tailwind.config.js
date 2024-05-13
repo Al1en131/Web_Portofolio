@@ -28,7 +28,8 @@ export default {
                 HelveticaNeueRoman : ['HelveticaNeueRoman'],
                 HelveticaNeueThin : ['HelveticaNeueThin'],
                 HelveticaNeueLight : ['HelveticaNeueLight'],
-                Poppins : ['Poppins']
+                Poppins : ['Poppins'],
+                Oswald : ['Oswald']
             },
         },
     },

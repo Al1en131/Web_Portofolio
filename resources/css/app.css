@@ -82,5 +82,10 @@
     src: url("./../../public/assets/fonts/Poppins-Light.ttf");
 }
 
+@font-face {
+    font-family: "Oswald";
+    src: url("./../../public/assets/fonts/Oswald-VariableFont_wght.ttf");
+}
+
 
 
