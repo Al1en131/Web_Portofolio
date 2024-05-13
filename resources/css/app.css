@@ -97,5 +97,9 @@
     src: url("./../../public/assets/fonts/Didot.otf");
 }
 
+@font-face {
+    font-family: "Qui";
+    src: url("./../../public/assets/fonts/Quivira.otf");
+}
 
 

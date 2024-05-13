@@ -31,7 +31,8 @@ export default {
                 Poppins : ['Poppins'],
                 Oswald : ['Oswald'],
                 Hand : ['Hand'],
-                Didot : ['Didot']
+                Didot : ['Didot'],
+                Qui : ['Qui']
             },
         },
     },
