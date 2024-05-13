@@ -87,5 +87,10 @@
     src: url("./../../public/assets/fonts/Oswald-VariableFont_wght.ttf");
 }
 
+@font-face {
+    font-family: "Hand";
+    src: url("./../../public/assets/fonts/BriemHand-VariableFont_wght.ttf");
+}
+
 
 
